@@ -19,7 +19,7 @@ public class Employee{
 
     }
     public static void main(String[] args) {
-        Employee emp=new Employee(null, 0, 0);
+        Employee emp=new Employee("aviraj", 05, 1);
         emp.display();
     }
 
